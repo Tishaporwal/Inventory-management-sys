@@ -1,4 +1,4 @@
-                                                                 Inventory Store Management System
+                                                                Inventory Store Management System
 Description
 Grocery Store Management System written in C++.
 Functionalities of the project is to
