@@ -24,33 +24,16 @@
     <th colspan="3" align="center">1. Introduction</th>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/23083986/92474848-1d111c00-f1fa-11ea-9680-1875204759d9.PNG" ></td>
-    <td><img src="https://user-images.githubusercontent.com/23083986/92474850-1da9b280-f1fa-11ea-876e-df1841e61da2.PNG" ></td>
-    <td><img src="https://user-images.githubusercontent.com/23083986/92474843-1b475880-f1fa-11ea-842d-2bcb1a8a9689.PNG" ></td>
+  <td><img src="https://github.com/Tishaporwal/Inventory-management-sys/assets/133584923/f75b36c6-2546-4cc2-8e6d-a6c07231596f"></td>
+    <td><img src="https://github.com/Tishaporwal/Inventory-management-sys/assets/133584923/f32e78fd-52a4-46db-96a3-b2a918cf2f31"></td>
+    <td><img src="https://github.com/Tishaporwal/Inventory-management-sys/assets/133584923/1867943d-f121-43dc-815a-eb6a3d7269e0"></td>
   </tr>
 </table>
 <table>
   <tr>
-    <th>2. Create Products</th>
-    <th>3. Display Products</th>
-    <th>4. Search Products</th>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/23083986/92475130-86912a80-f1fa-11ea-9a69-27ab01263306.PNG"></td>
-    <td><img src="https://user-images.githubusercontent.com/23083986/92473622-7d06c300-f1f8-11ea-8f42-a72c8aa7d905.PNG"></td>
-    <td><img src="https://user-images.githubusercontent.com/23083986/92473821-be976e00-f1f8-11ea-84e7-902b589ff5b6.PNG"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>5. Modify Products</th>
-    <th>6. Delete Products</th>
-    <th>7. Place an Order</th>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/23083986/92474170-17670680-f1f9-11ea-9896-9520d715f1d9.PNG"></td>
-    <td><img src="https://user-images.githubusercontent.com/23083986/92474176-1930ca00-f1f9-11ea-8e35-d7287e56dc8a.PNG"></td>
-    <td><img src="https://user-images.githubusercontent.com/23083986/92474434-7593e980-f1f9-11ea-935c-a487f9f68c32.PNG"></td>
+    <td><img src="https://github.com/Tishaporwal/Inventory-management-sys/assets/133584923/4a0b5729-17b4-4c3a-b5ad-dbe556dd3018"></td>
+    <td><img src="https://github.com/Tishaporwal/Inventory-management-sys/assets/133584923/bf9fc369-2ef1-492c-ace8-91d183fc5b30"></td>
+    <td><img src="https://github.com/Tishaporwal/Inventory-management-sys/assets/133584923/e92d0c28-d27e-4cee-b571-bb10d1010420"></td>
   </tr>
 </table>
 <table >
@@ -58,6 +41,6 @@
     <th>8. Billing</th>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/23083986/92474435-775dad00-f1f9-11ea-90d5-03e2015fd029.PNG" width="330" height="220"></td>
+    <td><img src="https://github.com/Tishaporwal/Inventory-management-sys/assets/133584923/5db014e2-4ae3-4d43-9bd5-e48c554a01aa" width="330" height="220"></td>
   </tr>
 </table>
