@@ -38,7 +38,7 @@
 </table>
 <table >
   <tr>
-    <th>8. Billing</th>
+    <th>7. Billing</th>
   </tr>
   <tr>
     <td><img src="https://github.com/Tishaporwal/Inventory-management-sys/assets/133584923/5db014e2-4ae3-4d43-9bd5-e48c554a01aa" width="330" height="220"></td>
